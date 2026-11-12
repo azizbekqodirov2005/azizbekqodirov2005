@@ -8,7 +8,7 @@
 <a href="https://azbek.uz"><img src="https://img.shields.io/badge/Sayt-azbek.uz-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://t.me/azbekdev"><img src="https://img.shields.io/badge/Telegram-azbekdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://instagram.com/azbekdev"><img src="https://img.shields.io/badge/Instagram-azbekdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://youtube.com/@Azizbekfrontend"><img src="https://img.shields.io/badge/YouTube-Azizbekfrontend-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://youtube.com/@azbekdev"><img src="https://img.shields.io/badge/YouTube-azbekdev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=azizbekqodirov2005&style=for-the-badge&color=2563eb&label=PROFIL+KO%27RISHLAR" />
