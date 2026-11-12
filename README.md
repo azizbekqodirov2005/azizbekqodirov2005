@@ -12,6 +12,7 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=azizbekqodirov2005&style=for-the-badge&color=2563eb&label=PROFIL+KO%27RISHLAR" />
+<img src="https://img.shields.io/github/followers/azizbekqodirov2005?style=for-the-badge&logo=github&color=2563eb&labelColor=1e1b4b&label=OBUNACHILAR" />
 
 </div>
 
@@ -19,8 +20,9 @@
 
 <div align="center">
 
-Men Azizbek Qodirov — veb-saytlar va veb-platformalar ishlab chiqaman, Telegram botlar hamda sun'iy intellekt asosidagi yechimlar yarataman.
-Qo'qon IT Academy'da frontend va AI yo'nalishi bo'yicha dars beraman. Asosiy e'tiborim — o'zbek tilidagi, odamlar kundalik ishlatadigan mahsulotlar.
+Veb-saytlar va veb-platformalar ishlab chiqaman, Telegram botlar hamda sun'iy intellekt asosidagi yechimlar yarataman.
+Qo'qon IT Academy'da frontend va AI yo'nalishi bo'yicha dars beraman.
+Asosiy e'tiborim — o'zbek tilidagi, odamlar kundalik ishlatadigan mahsulotlar.
 
 </div>
 
@@ -49,14 +51,15 @@ Qo'qon IT Academy'da frontend va AI yo'nalishi bo'yicha dars beraman. Asosiy e't
 
 </div>
 
-## 📊 Statistika
+## 🐍 Faollik
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=azizbekqodirov2005&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbekqodirov2005&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azizbekqodirov2005&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azizbekqodirov2005/azizbekqodirov2005/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azizbekqodirov2005/azizbekqodirov2005/output/snake.svg" />
+  <img alt="Contribution animatsiyasi" src="https://raw.githubusercontent.com/azizbekqodirov2005/azizbekqodirov2005/output/snake.svg" width="100%" />
+</picture>
 
 </div>
 
