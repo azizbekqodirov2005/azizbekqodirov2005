@@ -1,33 +1,85 @@
-<h1 align="center">Salom! Men Azizbek Qodirov 👋</h1>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:1e1b4b&height=190&section=header&text=Azizbek%20Qodirov&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20AI%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-<p align="center">
-  Frontend dasturchi · AI mutaxassisi · Qo'qon IT Academy o'qituvchisi
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=2563EB&center=true&vCenter=true&width=620&lines=Veb-saytlar+va+veb-platformalar;Telegram+botlar+va+AI+yechimlar;Frontend+va+AI+bo%27yicha+o%27qituvchi" alt="Typing SVG" />
+
+<p>
+<a href="https://azbek.uz"><img src="https://img.shields.io/badge/Sayt-azbek.uz-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://t.me/azbekdev"><img src="https://img.shields.io/badge/Telegram-azbekdev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://instagram.com/azbekdev"><img src="https://img.shields.io/badge/Instagram-azbekdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://youtube.com/@Azizbekfrontend"><img src="https://img.shields.io/badge/YouTube-Azizbekfrontend-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=azizbekqodirov2005&style=for-the-badge&color=2563eb&label=PROFIL+KO%27RISHLAR" />
 
-<p align="center">
-  <a href="https://azbek.uz">Sayt</a> ·
-  <a href="https://t.me/azbekdev">Telegram</a> ·
-  <a href="https://instagram.com/azbekdev">Instagram</a> ·
-  <a href="https://youtube.com/@Azizbekfrontend">YouTube</a>
-</p>
-
+</div>
 
 ---
 
+<div align="center">
 
-## Men haqimda
+Men Azizbek Qodirov — veb-saytlar va veb-platformalar ishlab chiqaman, Telegram botlar hamda sun'iy intellekt asosidagi yechimlar yarataman.
+Qo'qon IT Academy'da frontend va AI yo'nalishi bo'yicha dars beraman. Asosiy e'tiborim — o'zbek tilidagi, odamlar kundalik ishlatadigan mahsulotlar.
 
+</div>
 
-- 🌐 Veb-saytlar va veb-platformalar ishlab chiqaman
-- 🤖 Telegram botlar hamda AI asosidagi yechimlar yarataman
-- 🎓 Qo'qon IT Academy'da frontend va sun'iy intellekt bo'yicha dars beraman
-- 🔤 O'zbek tilidagi mahsulotlarga alohida e'tibor qarataman
-- 📫 Aloqa: [Telegram](https://t.me/QodirovAzizbek) · azizbekqodirov2015@gmail.com
+## 🛠 Texnologiyalar
 
+<div align="center">
 
-## Texnologiyalar
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react&theme=dark" />
+<br />
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,python,postgres,git,netlify&theme=dark" />
 
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+## 🚀 Loyihalar
+
+<div align="center">
+
+| Loyiha | Tavsif | Havola |
+| :--- | :--- | :--- |
+| **agame.uz** | Onlayn o'yinlar platformasi | [Sayt](https://agame.uz) |
+| **hamyonpro.uz** | Shaxsiy moliya boshqaruvi platformasi | [Sayt](https://hamyonpro.uz) |
+| **Alifbo o'giruvchi** | Kiril ↔ lotin matn o'giruvchi veb-ilova | [Demo](https://uzbek-matn-ogiruvchi.netlify.app) · [Kod](https://github.com/azizbekqodirov2005/yangialifbo) |
+| **Ferma hisobi** | Chorvachilik xo'jaligini boshqarish ilovasi | [Kod](https://github.com/azizbekqodirov2005/fermahisobi) |
+| **Pul nazorat** | Kirim-chiqim va byudjet nazorati | [Kod](https://github.com/azizbekqodirov2005/pulnazorat) |
+| **Designer portfolio** | Grafik dizayner uchun portfolio sayti | [Kod](https://github.com/azizbekqodirov2005/designerportfolio) |
+
+</div>
+
+## 📊 Statistika
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=azizbekqodirov2005&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbekqodirov2005&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azizbekqodirov2005&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+## 💼 Xizmatlar
+
+<div align="center">
+
+| | |
+| :--- | :--- |
+| 🌐 **Veb-saytlar** | Korporativ saytlar, landing va veb-platformalar |
+| 🤖 **Telegram botlar** | Avtomatlashtirish, savdo va xizmat botlari |
+| 🧠 **AI yechimlar** | Matn, ovoz va tahlil vositalari |
+| 🎬 **AI video** | Reklama va kontent uchun video tayyorlash |
+
+</div>
+
+<div align="center">
+
+### Hamkorlik uchun
+
+<a href="https://t.me/QodirovAzizbek"><img src="https://img.shields.io/badge/Telegram-%40QodirovAzizbek-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:azizbekqodirov2015@gmail.com"><img src="https://img.shields.io/badge/Email-Yozish-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:2563eb,100:38bdf8&height=120&section=footer" width="100%" />
+
+</div>
