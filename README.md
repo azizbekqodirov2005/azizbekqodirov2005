@@ -55,8 +55,8 @@ Asosiy e'tiborim — o'zbek tilidagi, odamlar kundalik ishlatadigan mahsulotlar.
 | | |
 | :--- | :--- |
 | 🌐 **Veb-saytlar** | Korporativ saytlar, landing va veb-platformalar |
-| 🤖 **Telegram botlar** | Avtomatlashtirish, savdo va xizmat botlari |
-| 🧠 **AI yechimlar** | Matn, ovoz va tahlil vositalari |
+| 🤖 **Telegram botlar** | Savdo, buyurtma va mijozlarga xizmat botlari |
+| 🧠 **AI yechimlar** | Biznes uchun aqlli tizimlar va avtomatlashtirish |
 | 🎬 **AI video** | Reklama va kontent uchun video tayyorlash |
 
 </div>
