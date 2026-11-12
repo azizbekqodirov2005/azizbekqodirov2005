@@ -36,21 +36,6 @@ Asosiy e'tiborim — o'zbek tilidagi, odamlar kundalik ishlatadigan mahsulotlar.
 
 </div>
 
-## 🚀 Loyihalar
-
-<div align="center">
-
-| Loyiha | Tavsif | Havola |
-| :--- | :--- | :--- |
-| **agame.uz** | Onlayn o'yinlar platformasi | [Sayt](https://agame.uz) |
-| **hamyonpro.uz** | Shaxsiy moliya boshqaruvi platformasi | [Sayt](https://hamyonpro.uz) |
-| **Alifbo o'giruvchi** | Kiril ↔ lotin matn o'giruvchi veb-ilova | [Demo](https://uzbek-matn-ogiruvchi.netlify.app) · [Kod](https://github.com/azizbekqodirov2005/yangialifbo) |
-| **Ferma hisobi** | Chorvachilik xo'jaligini boshqarish ilovasi | [Kod](https://github.com/azizbekqodirov2005/fermahisobi) |
-| **Pul nazorat** | Kirim-chiqim va byudjet nazorati | [Kod](https://github.com/azizbekqodirov2005/pulnazorat) |
-| **Designer portfolio** | Grafik dizayner uchun portfolio sayti | [Kod](https://github.com/azizbekqodirov2005/designerportfolio) |
-
-</div>
-
 ## 🐍 Faollik
 
 <div align="center">
