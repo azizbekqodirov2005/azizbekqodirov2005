@@ -22,7 +22,6 @@
 
 Veb-saytlar va veb-platformalar ishlab chiqaman, Telegram botlar hamda sun'iy intellekt asosidagi yechimlar yarataman.
 Qo'qon IT Academy'da frontend va AI yo'nalishi bo'yicha dars beraman.
-Asosiy e'tiborim — o'zbek tilidagi, odamlar kundalik ishlatadigan mahsulotlar.
 
 </div>
 
